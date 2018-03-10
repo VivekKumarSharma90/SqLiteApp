@@ -16,6 +16,9 @@ public class ActivityDB extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_db);
 
+        //hkhvkhv
+        //hkskhs
+
         ArrayList<String> arrFirst = new ArrayList<>();
         ArrayList<String> arrSecond = new ArrayList<>();
 
